@@ -1,6 +1,6 @@
 # BitNet
 
-Official code for a paper:
+Official code for:
 
 BitNet: Learning-Based Bit-Depth Expansion
 https://arxiv.org/abs/1910.04397
