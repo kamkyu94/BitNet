@@ -1,4 +1,4 @@
-# BitNet
+# BitNet: Learning-Based-Bit-Depth-Expansion
 
 Official code for:
 
