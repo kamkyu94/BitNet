@@ -1,5 +1,5 @@
 # BitNet: Learning-Based-Bit-Depth-Expansion
-Official code for "BitNet: Learning-Based Bit-Depth Expansion"
+Official code for "BitNet: Learning-Based Bit-Depth Expansion", ACCV, 2018
  - https://arxiv.org/abs/1910.04397
  - https://link.springer.com/chapter/10.1007/978-3-030-20890-5_5
 
